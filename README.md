@@ -1,2 +1,2 @@
-# twizzlers_gereater-than_red_vine
+# twizzlers_greater-than_red_vine
 Repo name says all
