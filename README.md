@@ -3,4 +3,4 @@
 
 **Live link: https://curtisdhenley.github.io/twizzlers_greater-than_red_vine/**
 
-![Preview](/twizzlers_greater-than_red_vine/images/Screenshot%20(1).png)
+![Preview](/twizzlers_greater-than_red_vine/images/Screenshot%20(1).png "Preview")
